@@ -35,7 +35,6 @@ modalclose.onclick = function() {
 
 emptymodalclose.onclick = function() {
   emptymodal.style.display = "none";
-  console.log("what the fuck")
 }
 /**
  * Called when submitting the new Kitten Form--check
